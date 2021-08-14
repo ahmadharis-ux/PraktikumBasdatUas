@@ -1,0 +1,2 @@
+# PraktikumBasdatUas
+Praktikum UAS basdat
